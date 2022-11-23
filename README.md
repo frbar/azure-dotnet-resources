@@ -11,6 +11,7 @@ Collection of links and other interesting online resources.
   - [SQL](https://azure.microsoft.com/en-us/updates/?query=sql)
 - [Products Available per Region](https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region/?regions=&products=all)
   - [France](https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region/?regions=france-central,france-south&products=all)
+- [Azure network round-trip latency statistics](https://learn.microsoft.com/en-us/azure/networking/azure-network-latency)
   
 - [Azure Icons](https://code.benco.io/icon-collection/azure-icons/)
   
