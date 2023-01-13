@@ -13,7 +13,10 @@ Collection of links and other interesting online resources.
   - [France](https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region/?regions=france-central,france-south&products=all)
 - [Azure network round-trip latency statistics](https://learn.microsoft.com/en-us/azure/networking/azure-network-latency)
   
-- [Azure Icons](https://code.benco.io/icon-collection/azure-icons/)
+- Architecture Diagrams
+  - [Official Azure Icons](https://learn.microsoft.com/en-us/azure/architecture/icons/)
+  - [Browse Azure Architectures](https://learn.microsoft.com/en-us/azure/architecture/browse/)
+  - [Azure Icons](https://code.benco.io/icon-collection/azure-icons/)
   
 # .NET
 
